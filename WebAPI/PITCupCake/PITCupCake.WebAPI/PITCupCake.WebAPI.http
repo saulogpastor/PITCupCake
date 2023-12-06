@@ -1,0 +1,6 @@
+@PITCupCake.WebAPI_HostAddress = http://localhost:5063
+
+GET {{PITCupCake.WebAPI_HostAddress}}/CupCake/
+Accept: application/json
+
+###
