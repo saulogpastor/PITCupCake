@@ -50,7 +50,7 @@ Android
 
 ![image](https://github.com/saulogpastor/PITCupCake/assets/16128508/464c2e32-18a6-4b48-900e-be3ba0d270d2)
 
+https://github.com/saulogpastor/PITCupCake/assets/16128508/684d1c29-201f-45c4-826d-ac274d0ab8da
 
-Video de apresentação do aplicativo - https://github.com/saulogpastor/PITCupCake/assets/16128508/684d1c29-201f-45c4-826d-ac274d0ab8da
 
 Video da soluação 
