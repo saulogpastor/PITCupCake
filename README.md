@@ -25,7 +25,13 @@ Você pode acessar acessar o app pelo qrcode abaixo ou links;
 
 iOS 
 
-Update preview QR code
+![image](https://github.com/saulogpastor/PITCupCake/assets/16128508/b3db926d-113b-4f07-83bb-94ea96134617)
 
-https://github.com/saulogpastor/PITCupCake/assets/16128508/684d1c29-201f-45c4-826d-ac274d0ab8da
+Android
 
+![image](https://github.com/saulogpastor/PITCupCake/assets/16128508/464c2e32-18a6-4b48-900e-be3ba0d270d2)
+
+
+Video de apresentação do aplicativo - https://github.com/saulogpastor/PITCupCake/assets/16128508/684d1c29-201f-45c4-826d-ac274d0ab8da
+
+Video da soluação 
