@@ -27,6 +27,9 @@ iOS
 
 Update preview QR code
 
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://1drv.ms/v/s!Am4yNzLl72EVj9AZ6dtt4DfYMNpcgw?e=x3dU0N))
+
+
 exp://u.expo.dev/update/1442380e-aa6e-4117-9aac-80eb83f40fc6
 
-Video do funcionamento - https://1drv.ms/v/s!Am4yNzLl72EVj9AZ6dtt4DfYMNpcgw?e=x3dU0N
+Video do funcionamento - 
