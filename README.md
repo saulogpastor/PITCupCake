@@ -21,5 +21,12 @@ Nesse projeto, fui capaz de:
 	• Implementar testes unitários.
 
 🔖 Layout
-Você pode acessar a página do projeto através desse link.
+Você pode acessar acessar o app pelo qrcode abaixo ou links;
 
+iOS 
+
+Update preview QR code
+
+exp://u.expo.dev/update/1442380e-aa6e-4117-9aac-80eb83f40fc6
+
+Video do funcionamento - https://1drv.ms/v/s!Am4yNzLl72EVj9AZ6dtt4DfYMNpcgw?e=x3dU0N
