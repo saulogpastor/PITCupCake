@@ -22,4 +22,4 @@ Nesse projeto, fui capaz de:
 
 🔖 Layout
 Você pode acessar a página do projeto através desse link.
-![image](https://github.com/saulogpastor/PITCupCake/assets/16128508/5337f10b-72fa-4db9-b5eb-f2e41fac233f)
+
