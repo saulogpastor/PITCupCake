@@ -397,3 +397,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 WebAPI/PITCupCake/PITCupCake.WebAPI/appsettings.json
+Aplicativo/ios/.DS_Store
