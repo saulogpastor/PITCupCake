@@ -4,7 +4,7 @@ PIT em Engenharia de Software II - Universidade Cruzeiro do Sul
 
 💻 Projeto
 
-O PITCupCake é um projeto desenvolvido no Engenharia de Software pela Universidade Cruzeiro do Sul!
+O PITCupCake é um projeto desenvolvido no curso de Engenharia de Software pela Universidade Cruzeiro do Sul!
 
 
 
